@@ -4,7 +4,7 @@
     <title>SANTOSH</title>
 </head>
 <body>
-    <center> HELLO FRIEND chai pelo</center>
+    <center> HELLO FRIEND CHAI PELO</center>
     </body>
 </html>
 
