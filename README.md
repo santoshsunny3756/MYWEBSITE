@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
     <title>SANTOSH</title>
@@ -7,4 +7,5 @@
     <center> HELLO FRIENDS</center>
     </body>
 </html>
+
 
