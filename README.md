@@ -4,7 +4,7 @@
     <title>SANTOSH</title>
 </head>
 <body>
-    <center> HELLO FRIENDS</center>
+    <center> HELLO FRIEND</center>
     </body>
 </html>
 
